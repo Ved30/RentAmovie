@@ -1,0 +1,10 @@
+{
+    "name" : "Vidly-app",
+    "mail" : {
+        "host" : "none",
+        "password" : "none"
+    },
+    "jwtPrivateKey":  "",
+    "db":"mongodb://localhost/vidly"
+ 
+}

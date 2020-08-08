@@ -1,0 +1,8 @@
+{
+    "name" : "Vidly-app-production",
+    "mail" : {
+        "host" : "production-mail-server"
+    },
+    "db":"mongodb://localhost/vidly",
+    "jwtPrivateKey":  ""
+}

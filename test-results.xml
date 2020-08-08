@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="0.0010" tests="1" failures="1">
+  <testsuite name="Root Suite" timestamp="2020-08-06T10:28:02" tests="0" time="0.0000" failures="0">
+  </testsuite>
+  <testsuite name="/api/returns" timestamp="2020-08-06T10:28:02" tests="1" file="D:\vidly-app\test\integration\returns.test.js" time="0.0010" failures="1">
+    <testcase name="/api/returns it should 401 error if client is not logged in" time="0.0010" classname="it should 401 error if client is not logged in">
+      <failure message="app.address is not a function" type="TypeError"><![CDATA[TypeError: app.address is not a function
+    at Test.serverAddress (node_modules\supertest\lib\test.js:55:18)
+    at new Test (node_modules\supertest\lib\test.js:36:12)
+    at Object.obj.<computed> [as post] (node_modules\supertest\index.js:25:14)
+    at Context.<anonymous> (test\integration\returns.test.js:36:14)]]></failure>
+    </testcase>
+  </testsuite>
+</testsuites>
