@@ -3,5 +3,6 @@
         "password" : "Vidly_password"
     }
     ,
-    "jwtPrivateKey" : "Vidly_jwtPrivateKey"
+    "jwtPrivateKey" : "Vidly_jwtPrivateKey",
+    "db": "db"
 }
