@@ -31,8 +31,8 @@
     "test": "jest --watchAll --verbose --runInBand  --detectOpenHandles ",
     "start": "node index.js"
   },
-  "engines":{
-    "node" : "^12.18.0"
+  "engines": {
+    "node": "^12.18.0"
   },
   "keywords": [],
   "author": "",
